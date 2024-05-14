@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>dsfjddls</h1>
+    <div className="d-flex justify-content-between">
+      <h1 className=''>dsfjddls</h1>
       <h2>vishal</h2>
       <h2>srivastava</h2>
     </div>
