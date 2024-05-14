@@ -6,7 +6,7 @@ function App() {
     <div className="d-flex justify-content-between">
       <h1 className=''>dsfjddls</h1>
       <h2>vishal</h2>
-      <h2>srivastava</h2>
+      <h2>janvi saqeena2</h2>
     </div>
   );
 }
